@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Al!
 - 👀 I’m interested in all things IoT related, 3D Printing, CAD, and web development!
 - 🌱 I’m currently learning MERN Stack and polishing my algorithm skills
-- 💞️ I’m looking to collaborate on anything related to Horticulturally related IoT Projects
+- 💞️ I’m looking to collaborate on anything related to horticulturally related IoT Projects
 - 📫 You can pop me an email at fablousic@gmail.com or hit me up on Linkedin! (https://www.linkedin.com/in/alvinlsx/)
 
 <!---
